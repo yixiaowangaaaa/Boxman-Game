@@ -34,4 +34,9 @@ Welcome to the **Interactive Push Box Game**, a Python-based puzzle game develop
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/interactive-push-box-game.git
+   git clone https://github.com/<your-username>/interactive-push-box-game.git](https://github.com/yixiaowangaaaa/Boxman-Game.git
+2. Navigate to the project directory.
+3. Run the game
+   ```bash
+   python3 game_solution.py
+
